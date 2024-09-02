@@ -1,0 +1,16 @@
+C:\Views\UnitTestingSrc\ToDoApp\bin\Debug\ToDoApp.exe.config
+C:\Views\UnitTestingSrc\ToDoApp\bin\Debug\ToDoApp.exe
+C:\Views\UnitTestingSrc\ToDoApp\bin\Debug\ToDoApp.pdb
+C:\Views\UnitTestingSrc\ToDoApp\bin\Debug\xunit.abstractions.dll
+C:\Views\UnitTestingSrc\ToDoApp\bin\Debug\xunit.assert.dll
+C:\Views\UnitTestingSrc\ToDoApp\bin\Debug\xunit.core.dll
+C:\Views\UnitTestingSrc\ToDoApp\bin\Debug\xunit.execution.desktop.dll
+C:\Views\UnitTestingSrc\ToDoApp\bin\Debug\xunit.abstractions.xml
+C:\Views\UnitTestingSrc\ToDoApp\bin\Debug\xunit.assert.xml
+C:\Views\UnitTestingSrc\ToDoApp\bin\Debug\xunit.core.xml
+C:\Views\UnitTestingSrc\ToDoApp\bin\Debug\xunit.execution.desktop.xml
+C:\Views\UnitTestingSrc\ToDoApp\obj\Debug\ToDoApp.csproj.AssemblyReference.cache
+C:\Views\UnitTestingSrc\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Views\UnitTestingSrc\ToDoApp\obj\Debug\ToDoApp.csproj.CopyComplete
+C:\Views\UnitTestingSrc\ToDoApp\obj\Debug\ToDoApp.exe
+C:\Views\UnitTestingSrc\ToDoApp\obj\Debug\ToDoApp.pdb
